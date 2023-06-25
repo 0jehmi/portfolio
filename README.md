@@ -4,9 +4,19 @@
 - 📫 How to reach me **0jehmi@gmail.com**
 
 - 👨‍💻 Team Project 'MOLO' I participated is available on [https://github.com/MOLA-kr/molo](https://github.com/MOLA-kr/molo)
+    - MOLO' Shot Loader Using Kitsu API ( Demonstration Video ) :
+        
+        *[https://youtu.be/nhqHIWsesd4](https://youtu.be/nhqHIWsesd4)*
+        
+    - I participated in
+        
+        `file_tree.py`, `get_comments` from `comptask.py`, `update_comment_tree` from `molo_widget.py`, `project_setting`, `nodes_data` from `nuke_function.py`, `flags` from `molo_mvc.py`, `icon`
 
 - 👨‍💻 Team Project 'shotgrid-starter' I participated is available on [https://github.com/shotgrid-starter/set_pipeline_start](https://github.com/shotgrid-starter/set_pipeline_start)
-
+    - I participated in
+        
+        `excel_creater.py`, `file_tree set`, `rez packaging`
+  
 - 📝 Python Project [https://github.com/0jehmi/portfolio/tree/main/python](https://github.com/0jehmi/portfolio/tree/main/python)
 
 <p align="left">
