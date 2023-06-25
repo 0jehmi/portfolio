@@ -15,7 +15,7 @@
 - 👨‍💻 Team Project 'shotgrid-starter' I participated is available on [https://github.com/shotgrid-starter/set_pipeline_start](https://github.com/shotgrid-starter/set_pipeline_start)
     - I participated in
         
-        `excel_creater.py`, `file_tree set`, `rez packaging`
+        `excel_creater.py`, `file_tree setting`, `shotgrid config setting`, `rez packaging`
   
 - 📝 Python Project [https://github.com/0jehmi/portfolio/tree/main/python](https://github.com/0jehmi/portfolio/tree/main/python)
 
